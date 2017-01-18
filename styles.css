@@ -1,3 +1,29 @@
+
+
+body {
+    background-color: #C6E2FF;
+		text-align: center;
+		margin: auto;
+		padding-top: 50px;
+	  padding-right: 30px;
+	  padding-bottom: 50px;
+	  padding-left: 30px;
+	}
+
 p {
 	font-family: cursive;
+	text-align: center;
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+
+}
+
+img {
+	box-shadow: rgba(0,0,0,0.3) 10px 10px;
+}
+
+footer {
+
 }
