@@ -31,7 +31,9 @@ body {
 	}
 
 p {
-	margin: auto;
+
+  margin-right: 200px;
+  margin-left: 200px;
 	font-family: cursive;
 	text-align: center;
   padding-bottom: 50px;
